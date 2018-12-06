@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ This\ Die\ Class\ is\ a\ JButton\ which\ represents\ the\ die\ to\ roll\ in\ the\ snake\ ladder\ game\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 2.0.0\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\n\ This\ is\ the\ constructor\ of\ Die\ class\ initializing\ the\ button\ text\ and\ size\n
+comment2.params=
+comment2.target=int\ rollTheDie()
+comment2.text=\n\ rollTheDie()\ method\ generates\ the\ die\ face\ value\ from\ 1\ to\ 6\n\ \n\ @return\ dieValue\ is\ returned\ as\ an\ integer\ from\ 1\ to\ 6\n
+comment3.params=
+comment3.target=int\ getDieValue()
+comment3.text=\n\ getDieValue()\ method\ returns\ the\ current\ die\ value\n\ \n\ @return\ dieValue\ is\ returned\n
+comment4.params=dieValue
+comment4.target=void\ setDieValue(int)
+comment4.text=\n\ setDieValue()\ method\ sets\ the\ die\ value\n\ \n\ @params\ dieValue\ is\ set\n
+comment5.params=enabled
+comment5.target=void\ setEnable(boolean)
+comment5.text=\n\ setEnable()\ method\ sets\ the\ enability\ of\ the\ die\ buttton\n\ \n\ @params\ enabled\ is\ a\ boolean\ provided\ to\ set\ the\ enability\ of\ the\ button\n
+numComments=6

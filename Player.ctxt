@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ This\ Player\ Class\ represents\ the\ piece\ of\ the\ player\ which\ traverse\ from\ box\ to\ box\ in\ the\ snake\ and\ ladder\ board\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 2.0.0\n
+comment1.params=imageIconSource\ humanPlayer
+comment1.target=Player(java.lang.String,\ boolean)
+comment1.text=\n\ This\ is\ the\ constructor\ of\ Player\ class\ initializing\ the\ details\ of\ player\n\ \n\ @params\ imageIconSource\ is\ a\ source\ path\ of\ image\ icon\n\ @params\ humanPlayer\ is\ the\ boolean\ to\ set\ if\ this\ is\ the\ human\ player\ or\ not\n
+comment2.params=position
+comment2.target=void\ setPlayerPosition(int)
+comment2.text=\n\ setPlayerPosition()\ method\ sets\ the\ position\ of\ the\ player\n\ \n\ @params\ position\ is\ provided\ as\ integer\ to\ set\ the\ current\ position\ of\ the\ player\n
+comment3.params=
+comment3.target=int\ getPlayerPosition()
+comment3.text=\n\ getPlayerPosition()\ method\ returns\ the\ position\ of\ the\ player\n\ \n\ @retun\ playerPosition\ is\ returned\ as\ integer\n
+comment4.params=
+comment4.target=boolean\ getPlayerIsHuman()
+comment4.text=\n\ getPlayerIsHuman()\ method\ returns\ if\ the\ player\ is\ human\ or\ not\n\ \n\ @retun\ humanPlayer\ is\ returned\ as\ boolean\n
+numComments=5

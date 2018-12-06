@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\n\ This\ App\ Class\ consists\ of\ main\ method\ as\ well\ as\ the\ start\ of\ the\ game\ access\n\ \n\ @author\ \ \ \ \ \ Sujit\ Ghosh\n\ @ID\ \ \ \ \ \ \ \ \ \ 102233329\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n\ @version\ \ \ \ \ 2.0.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
